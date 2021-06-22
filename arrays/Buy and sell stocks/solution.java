@@ -1,3 +1,7 @@
+/*
+Runtime: 1 ms
+Memory Usage: 38.9 MB
+*/
 class Solution {
     public int maxProfit(int[] prices) {
         int maxProfit = 0;
